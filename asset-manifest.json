@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/2eunnnn/Assignment.git/static/css/main.18e11287.css",
+    "main.js": "/2eunnnn/Assignment.git/static/js/main.4de9c597.js",
+    "static/js/483.f080a062.chunk.js": "/2eunnnn/Assignment.git/static/js/483.f080a062.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/2eunnnn/Assignment.git/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/2eunnnn/Assignment.git/service-worker.js",
+    "index.html": "/2eunnnn/Assignment.git/index.html",
+    "main.18e11287.css.map": "/2eunnnn/Assignment.git/static/css/main.18e11287.css.map",
+    "main.4de9c597.js.map": "/2eunnnn/Assignment.git/static/js/main.4de9c597.js.map",
+    "483.f080a062.chunk.js.map": "/2eunnnn/Assignment.git/static/js/483.f080a062.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/2eunnnn/Assignment.git/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.4de9c597.js"
+  ]
+}
