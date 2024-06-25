@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//Assignment.git/static/css/main.18e11287.css",
-    "main.js": "//Assignment.git/static/js/main.36af31aa.js",
-    "static/js/879.af983237.chunk.js": "//Assignment.git/static/js/879.af983237.chunk.js",
-    "static/js/453.e175767b.chunk.js": "//Assignment.git/static/js/453.e175767b.chunk.js",
-    "service-worker.js": "//Assignment.git/service-worker.js",
-    "index.html": "//Assignment.git/index.html",
-    "main.18e11287.css.map": "//Assignment.git/static/css/main.18e11287.css.map",
-    "main.36af31aa.js.map": "//Assignment.git/static/js/main.36af31aa.js.map",
-    "879.af983237.chunk.js.map": "//Assignment.git/static/js/879.af983237.chunk.js.map",
-    "453.e175767b.chunk.js.map": "//Assignment.git/static/js/453.e175767b.chunk.js.map"
+    "main.css": "/Assignment/static/css/main.18e11287.css",
+    "main.js": "/Assignment/static/js/main.04135909.js",
+    "static/js/879.ba47c521.chunk.js": "/Assignment/static/js/879.ba47c521.chunk.js",
+    "static/js/453.e175767b.chunk.js": "/Assignment/static/js/453.e175767b.chunk.js",
+    "service-worker.js": "/Assignment/service-worker.js",
+    "index.html": "/Assignment/index.html",
+    "main.18e11287.css.map": "/Assignment/static/css/main.18e11287.css.map",
+    "main.04135909.js.map": "/Assignment/static/js/main.04135909.js.map",
+    "879.ba47c521.chunk.js.map": "/Assignment/static/js/879.ba47c521.chunk.js.map",
+    "453.e175767b.chunk.js.map": "/Assignment/static/js/453.e175767b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18e11287.css",
-    "static/js/main.36af31aa.js"
+    "static/js/main.04135909.js"
   ]
 }
